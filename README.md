@@ -9,6 +9,7 @@ I’m currently learning :
   - JavaScript
   - CSS
   - Design / Illustration
+  - Three.js
 
 You can reach me on:
   01. Instagram --> @evesjzombie
