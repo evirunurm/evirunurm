@@ -1,4 +1,4 @@
-Hey, I’m TeaKid ☕ !
+Hey, I’m Evelin ☕ !
   
 I’m interested in :
   - Mushrooms
@@ -6,11 +6,14 @@ I’m interested in :
   - Tattoo
 
 I’m currently learning :
-  - JavaScript
-  - CSS
+  - JavaScript + Three.js, Vue.js
+  - CSS + SASS
   - Design / Illustration
-  - Three.js
 
-You can reach me on:
-  01. Instagram --> @evesjzombie
-  02. Discord --> @kittymare#0059
+Social :
+  - Dribbble : https://dribbble.com/teakid
+  - Codepen : https://codepen.io/teakid
+  - Instagram : https:/instagram.com/xyzombie/
+  - 
+You can reach me on :
+  - Email : evelinviru@gmail.com
