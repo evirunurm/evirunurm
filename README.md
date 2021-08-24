@@ -3,7 +3,6 @@ Hey, I’m Evelin ☕ !
 I’m interested in :
   - Mushrooms
   - Moths
-  - Tattoo
 
 I’m currently learning :
   - JavaScript + Three.js, Vue.js
