@@ -6,6 +6,7 @@ I’m interested in :
 
 I’m currently learning :
   - JavaScript + React
+  - Java
   - Design / Illustration
 
 Social :
