@@ -5,8 +5,7 @@ I’m interested in :
   - Moths
 
 I’m currently learning :
-  - JavaScript + Three.js, Vue.js
-  - CSS + SASS
+  - JavaScript + React
   - Design / Illustration
 
 Social :
