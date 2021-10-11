@@ -10,8 +10,8 @@ I’m currently learning :
   - Design / Illustration
 
 Social :
-  - Dribbble : https://dribbble.com/teakid
-  - Codepen : https://codepen.io/teakid
+  - Dribbble : https://dribbble.com/evirunurm
+  - Codepen : https://codepen.io/evirunurm
 
 You can reach me on :
   - Email : evelinviru@gmail.com
