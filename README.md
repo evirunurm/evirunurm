@@ -9,7 +9,7 @@ I’m interested in :
   - Tech 💻
 
 I’m currently learning :
-  - JavaScript + React + Vue
+  - JavaScript + Vue + Node.js
   - Java
   - Design / Illustration
 
