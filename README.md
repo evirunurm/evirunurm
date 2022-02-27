@@ -11,7 +11,7 @@ I’m currently learning :
   - Java
   - Design / Illustration
 
-Social :
+Socials :
   - [Dribbble](https://dribbble.com/evirunurm) 
   - [Codepen](https://codepen.io/evirunurm)
   - [LinkedIn](https://www.linkedin.com/in/evelin-v-224037213/)
