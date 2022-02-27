@@ -14,6 +14,7 @@ I’m currently learning :
 Social :
   - [Dribbble](https://dribbble.com/evirunurm) 
   - [Codepen](https://codepen.io/evirunurm)
+  - [LinkedIn](https://www.linkedin.com/in/evelin-v-224037213/)
 
 You can reach me on :
   - Email : evelinviru@gmail.com
