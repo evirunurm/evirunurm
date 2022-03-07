@@ -1,20 +1,55 @@
 
 # Hey, I’m Evelin ☕ !
-  
-I’m interested in :
-  - Mushrooms 🍄
-  - Moths 🦋
-  - Tech 💻
 
-I’m currently learning :
-  - JavaScript + Vue + Node.js
-  - Java
-  - Design / Illustration
 
-Socials :
-  - [Dribbble](https://dribbble.com/evirunurm) 
-  - [Codepen](https://codepen.io/evirunurm)
-  - [LinkedIn](https://www.linkedin.com/in/evelin-v-224037213/)
+<details>
+<summary>My Interests 🐧</summary>
+  <br>
+  <ul>
+    <li>Mushrooms 🍄</li>
+    <li>Moths 🦋</li>
+    <li>Tech 💻</li>
+  </ul>
+<br>
+</details>
 
-You can reach me on :
-  - Email : evelinviru@gmail.com
+<details>
+<summary>Currently learning 💻</summary>
+<br>
+  <ul>
+    <li>JavaScript + Vue</li>
+    <li>Node.js</li>
+    <li>Java</li>
+    <li>Design / Illustration</li>
+   </ul>
+ <br>
+</details>
+
+<details>
+<summary>My Socials 📸</summary>
+<br>
+  <ul>
+    <li><a href="https://dribbble.com/evirunurm">Dribbble</a></li>
+    <li><a href="https://codepen.io/evirunurm">Codepen</a></li>
+    <li><a href="https://www.linkedin.com/in/evelin-v-224037213/">LinkedIn</a></li>
+  </ul>
+  <br>
+</details>
+
+## Skill Set 
+**Languages**
+
+<img width="64" height="64" src="https://www.shareicon.net/data/128x128/2016/07/06/106572_java_512x512.png"><img width="64" height="64" src="https://www.shareicon.net/data/128x128/2016/07/06/106573_software_512x512.png"><img width="64" height="64" src="https://www.shareicon.net/data/128x128/2016/07/10/119473_development_512x512.png"><img width="64" height="64" src="https://www.shareicon.net/data/128x128/2015/09/24/106574_html_512x512.png"><img width="64" height="64" src="https://www.shareicon.net/data/128x128/2015/09/24/106575_css_512x512.png">
+
+**Frameworks**
+
+<img width="55" height="55" src="https://noblescripts.com/wp-content/uploads/2020/11/61np1wbr9pL.png">
+
+**Tools**
+
+<img width="50" height="50" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"><img width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="50" height="50" src="https://camo.githubusercontent.com/54e37ab9cf255d29b617f989a6f46b39c9e27bc5311089cb3050a7f965b8e33c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f65352f30302f30316535303066636132396330343564343332623634663238356639633232392e706e67">
+
+
+
+## You can reach me on :
+  - ✉ Email : evelinviru@gmail.com
