@@ -1,6 +1,7 @@
 
 # Hey, I’m Evelin ☕ !
 
+[![My Stats](https://github-stats-evirunurm.vercel.app/api/app.js?username=evirunurm)](https://github.com/evirunurm/github-stats)
 
 <details>
 <summary>My Interests 🐧</summary>
