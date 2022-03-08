@@ -47,9 +47,13 @@
 
 **Tools**
 
-<img width="50" height="50" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"><img width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="50" height="50" src="https://camo.githubusercontent.com/54e37ab9cf255d29b617f989a6f46b39c9e27bc5311089cb3050a7f965b8e33c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f65352f30302f30316535303066636132396330343564343332623634663238356639633232392e706e67">
+<img width="50" height="50" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"><img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="50" height="50" src="https://camo.githubusercontent.com/54e37ab9cf255d29b617f989a6f46b39c9e27bc5311089cb3050a7f965b8e33c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f65352f30302f30316535303066636132396330343564343332623634663238356639633232392e706e67"><img width="15" height="15" class="separator"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="50" height="50" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"><img width="15" height="15" class="separator"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="50" height="50" src="https://i.ibb.co/Yp8Pryt/jest-icon.png">
 
 
+
+**Database**
+
+<img width="52" height="52" src="https://a2a-expertise.com/wp-content/uploads/2018/12/mysql-70x70.png">
 
 ## You can reach me on :
   - ✉ Email : evelinviru@gmail.com
