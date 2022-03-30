@@ -18,8 +18,8 @@
 <summary>Currently learning 💻</summary>
 <br>
   <ul>
-    <li>JavaScript + Vue</li>
-    <li>Node.js</li>
+    <li>Vue</li>
+    <li>Node.js + Express</li>
     <li>Java</li>
     <li>Design / Illustration</li>
    </ul>
