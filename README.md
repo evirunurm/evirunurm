@@ -20,7 +20,7 @@
   <ul>
     <li>Vue</li>
     <li>Node.js + Express</li>
-    <li>Java</li>
+    <li>C# + ASP.NET</li>
     <li>Design / Illustration</li>
    </ul>
  <br>
