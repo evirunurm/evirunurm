@@ -44,7 +44,7 @@
 
 **Frameworks**
 
-<img width="55" height="55" src="https://noblescripts.com/wp-content/uploads/2020/11/61np1wbr9pL.png"><img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="52" height="52" src="https://i.imgur.com/bwqDiRi.png"><img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="52" height="52" src="https://camo.githubusercontent.com/4da8fbe32d03f3cd0c099af887ce14d1bff01c3325501bae56bc5ca9563548f9/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d6874747073253341253246253246766563746f7269666965642e636f6d253246696d61676573253246657870726573732d6a732d69636f6e2d32302e706e6726663d31266e6f66623d31"><img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="52" height="52" src="https://wpguru.co.uk/wp-content/uploads/2020/04/dotnet-logo.png">
+<img width="55" height="55" src="https://noblescripts.com/wp-content/uploads/2020/11/61np1wbr9pL.png"><img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="52" height="52" src="https://i.imgur.com/bwqDiRi.png"><img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="52" height="52" src="https://wpguru.co.uk/wp-content/uploads/2020/04/dotnet-logo.png">
 
 
 
@@ -52,7 +52,7 @@
 
 **Tools**
 
-<img width="50" height="50" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"><img class="separator" width="15" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="50" height="50" src="https://camo.githubusercontent.com/54e37ab9cf255d29b617f989a6f46b39c9e27bc5311089cb3050a7f965b8e33c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f65352f30302f30316535303066636132396330343564343332623634663238356639633232392e706e67"><img width="15" height="15" class="separator"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="50" height="50" src="https://i.ibb.co/Yp8Pryt/jest-icon.png"><img width="15" height="15" class="separator"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="50" height="50" src="https://i.imgur.com/cMfJdGb.png">
+<img width="50" height="50" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png"><img width="15" height="15" class="separator"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="50" height="50" src="https://i.ibb.co/Yp8Pryt/jest-icon.png"><img width="15" height="15" class="separator"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1280px-HD_transparent_picture.png"><img width="50" height="50" src="https://i.imgur.com/cMfJdGb.png">
 
 
 
