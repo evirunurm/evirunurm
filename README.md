@@ -18,10 +18,10 @@
 <summary>Currently learning 💻</summary>
 <br>
   <ul>
-    <li>Vue</li>
-    <li>Node.js + Express</li>
-    <li>C# + ASP.NET</li>
-    <li>Design / Illustration</li>
+    <li>React</li>
+    <li>.NET 8</li>
+    <li>UX/UI</li>
+    <li>Web Accesibility</li>
    </ul>
  <br>
 </details>
